@@ -1,4 +1,4 @@
-asdadsasdasd## Best Practices Ops
+adsasdasd## Best Practices Ops
 
 Below are the infrastructures we currently have best practices for. Navigate to each provider to see what will be provisioned.
 
